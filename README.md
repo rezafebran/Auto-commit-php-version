@@ -7,4 +7,5 @@ How To Run ?
 4. FIll $token with your personal access token
 5. php run.php
 6. wait until the program end
+7. and then wakwaw
 
